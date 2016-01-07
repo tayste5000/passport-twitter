@@ -1,3 +1,5 @@
+This is a fork of passport-twitter with default support for email access
+
 # passport-twitter
 
 [![Build](https://travis-ci.org/jaredhanson/passport-twitter.svg?branch=master)](https://travis-ci.org/jaredhanson/passport-twitter)
